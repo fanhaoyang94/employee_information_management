@@ -1,0 +1,2 @@
+# employee_information_management
+基于Flask和Vue前后端分离的员工信息管理系统
